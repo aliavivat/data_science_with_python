@@ -1,4 +1,4 @@
-# Assessment 2: Data Modelling Report
+# Data Modelling Report
 
 ## Table of Contents
 - [Introduction](#introduction)
