@@ -21,6 +21,3 @@ This project underscores the potential of machine learning in solving real-world
 
 ## Acknowledgements
 Special thanks to RMIT University and Connect5G for the opportunity to work on this impactful project.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
